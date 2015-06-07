@@ -1,0 +1,8 @@
+*.pdb
+*.vcxproj
+*.vcxproj.filters
+/debug
+/release
+Makefile
+Makefile.Debug
+Makefile.Release
